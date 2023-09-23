@@ -1,0 +1,7 @@
+.usersStyle1 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 1280px;
+    height: 450px;
+    /* position: relative; */
+}

@@ -1,0 +1,25 @@
+.userStyle {
+    border: 2px solid yellow;
+    margin: 12px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    width: 250px;
+
+    /* flex-direction: column; */
+
+    /* flex-grow: 1; */
+}
+
+.userStyle:hover {
+    background-color: #fff;
+    color: black;
+    border: 3px double black;
+}
+
+/* .btn {
+    position: relative;
+    margin-top: -30px;
+    /* align-items: center; */
+    margin-right: 20px;
+} */
